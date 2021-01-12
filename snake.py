@@ -1,11 +1,10 @@
 ##
-bash: iskos:
+
 from tkinter import *
 import time
 import random
 
 Game_Running = True
-
 game_width = 500
 game_height = 500
 snake_item = 20
